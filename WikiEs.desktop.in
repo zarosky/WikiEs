@@ -1,0 +1,13 @@
+[Desktop Entry]
+_Name=WikiEs
+Exec=WikiEs --enable-embedded-switches %U
+Terminal=false
+Type=Application
+Icon=assets/icon.png
+X-Ubuntu-Touch=true
+
+X-Ubuntu-Splash-Color=#8b0000
+#X-Ubuntu-SymbolicIcon=assets/icon.png
+X-Ubuntu-Splash-Image=assets/icon-splash.png
+
+Name[en_EN]=wiki-de

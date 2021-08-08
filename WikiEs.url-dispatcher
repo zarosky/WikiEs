@@ -1,0 +1,26 @@
+[
+        {
+                "protocol": "http",
+                "domain-suffix": "wikipedia.de"
+        },
+        {
+                "protocol": "https",
+                "domain-suffix": "wikipedia.de"
+        },
+        {
+                "protocol": "http",
+                "domain-suffix": "wikipedia.de"
+        },
+        {
+                "protocol": "https",
+                "domain-suffix": "wikipedia.de"
+        },
+         {
+                "protocol": "http",
+                "domain-suffix": "en.wikipedia.org"
+        },
+        {
+                "protocol": "https",
+                "domain-suffix": "en.wikipedia.org"
+        }
+]

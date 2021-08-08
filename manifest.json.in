@@ -1,0 +1,18 @@
+{
+    "name": "wikies.zarosky",
+    "description": "Wikiepdia en español",
+
+    "title": "Wikipedia Español",
+    "architecture": "@CLICK_ARCH@",
+    "hooks": {
+        "wiki-de": {
+            "apparmor": "WikiEs.apparmor",
+            "desktop":  "WikiEs.desktop",
+            "urls": "WikiEs.url-dispatcher"
+        }
+    },
+    "version": "2.1.218",
+    "maintainer": "Alejandro Pietra <ale@ale.es>",
+    "framework" : "ubuntu-sdk-16.04.5"
+}
+
