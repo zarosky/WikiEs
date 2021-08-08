@@ -1,4 +1,6 @@
-# Wikipedia Deutschland
-Deutsche Wikipedia-App für Ubuntu Touch.
+# Wikipedia Español
 
-Wikipedia ist eine kostenlose Online-Enzyklopädie, erstellt und bearbeitet von Freiwilligen auf der ganzen Welt und gehostet von der Wikimedia Foundation.
+WikiEs es una aplicacióm para Ubuntu-Touch
+
+Wikipedia es una enciclopedia en línea gratuita creada y editada por voluntarios de todo el mundo y alojada por la Fundación Wikimedia.  
+
